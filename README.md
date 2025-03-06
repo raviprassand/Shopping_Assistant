@@ -1,6 +1,6 @@
 # Shopping Assistant
 
-This Shopping Assistant, developed using the LangGraph framework, facilitates product search, recommendations, and shopping cart management in a conversational setting. The assistant integrates LangGraph’s tools for smooth and responsive interactions, allowing users to find products, manage their shopping cart, and inquire about order and purchase-related information. The tools interact with a backend database for product search, order status, delivery time retrieval, etc.
+This Shopping Assistant, developed using the LangGraph framework, Ollama, facilitates product search, recommendations, and shopping cart management in a conversational setting. The assistant integrates LangGraph’s tools for smooth and responsive interactions, allowing users to find products, manage their shopping cart, and inquire about order and purchase-related information. The tools interact with a backend database for product search, order status, delivery time retrieval, etc.
 
 ## Assistant Capabilities
 
