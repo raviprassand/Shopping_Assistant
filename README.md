@@ -55,8 +55,6 @@ Key functionalities include:
 - `checkout`: Processes the checkout.
 - `get_payment_options`, `get_order_status`, `get_delivery_time`: Provides payment options, order status, and delivery information.
 
-## Output Screenshots
-- Screenshots documenting the assistant's interactions and key functionalities are stored in the `Output Screenshot` folder for reference.
 
 ## Steps to Run
 
